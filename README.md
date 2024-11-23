@@ -7,12 +7,14 @@ The company is expanding into the aviation industry and requires data-driven ins
 ## Data
 The dataset contains information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters.
 ## Methods
-
+This project uses descriptive analysis, including description of trends over time. This provides a useful overview of the civil aviation accidents.
 ## Results
 Most aircrafts have experience a very minimal number of accidents.
 ![Top 50](./Images/Top-50-Aircrafts-vs-no-of-accidents.png)
+
 The number of aircraft accidents typically peek in the summer months(June,July,August) and hits its lowest point in January.
 ![Months](./Images/Months-against-no-of-accidents.png)
+
 Most aircraft damages are substantial and happen during VMC(Visual Meteorological Conditions) weather conditions. Hence care should be taken during such times
 ![Aircraft](./Images/Aircraft-Damage-by-weather-Condition.png)
 ## Conclusions
