@@ -31,5 +31,5 @@ Further analyses could yield additional insights to help the company make the de
 *  Cost-Benefit Analysis: Compare the cost of acquisition, maintenance, and potential accident-related costs for different aircraft models.
 *  Seasonal Simulations: Simulate accident scenarios under different seasonal and weather conditions to identify potential mitigation strategies.
 # For More Information
-See the full analysis in [jupyter notebook](./index.ipynb) or review this [presentation]
+See the full analysis in [jupyter notebook](./index.ipynb) or review this [presentation](./Presentation.pdf)
 You can find the tableau dashboard [here](https://public.tableau.com/views/Dashboard_17323829453600/Dashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
