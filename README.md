@@ -9,6 +9,11 @@ The dataset contains information from 1962 and later about civil aviation accide
 ## Methods
 
 ## Results
+Most aircrafts have experience a very minimal number of accidents.
+![Top 50](./Images/Top-50-Aircrafts-vs-no-of-accidents.png)
+The number of aircraft accidents typically peek in the summer months(June,July,August) and hits its lowest point in January.
+![Months](./Images/Months-against-no-of-accidents.png)
+Most aircraft damages are substantial and happen during VMC(Visual Meteorological Conditions) weather conditions. Hence care should be taken during such times
 ![Aircraft](./Images/Aircraft-Damage-by-weather-Condition.png)
 ## Conclusions
 This analysis leads to three recommendations for the company to consider:
@@ -20,4 +25,6 @@ Further analyses could yield additional insights to help the company make the de
 *  Predictive Modeling: Use machine learning techniques to predict future accident rates based on historical data, weather conditions, and aircraft attributes.
 *  Cost-Benefit Analysis: Compare the cost of acquisition, maintenance, and potential accident-related costs for different aircraft models.
 *  Seasonal Simulations: Simulate accident scenarios under different seasonal and weather conditions to identify potential mitigation strategies.
-
+# For More Information
+See the full analysis in [jupyter notebook](./index.ipynb) or review this [presentation]
+You can find the tableau dashboard [here](https://public.tableau.com/views/Dashboard_17323829453600/Dashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
