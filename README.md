@@ -9,7 +9,7 @@ The dataset contains information from 1962 and later about civil aviation accide
 ## Methods
 
 ## Results
-
+![Aircraft](Images/Aircraft Damage by weather Condition.png)
 ## Conclusions
 This analysis leads to three recommendations for the company to consider:
 *  Focus on acquiring aircraft models with a history of low accident frequency and high durability under diverse conditions.
